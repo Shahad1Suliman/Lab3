@@ -4,6 +4,18 @@ private String name;
 private String color;
 peivate int year;
 
+public Car(String name, String color, int yearsOfMade){
+    this.name = name;
+    this.color = color;
+    this.yearsOfMade = yearsOfMade;
+}
+
 Public void setName(String name){
 this.name = name;
 }
+public Class Main{
+    public static void main(String[] args){
+        
+    }
+}
+
